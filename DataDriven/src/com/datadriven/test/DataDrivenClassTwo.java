@@ -1,5 +1,5 @@
 package com.datadriven.test;
 
-public class DataDrivenClassTow {
+public class DataDrivenClassTwo {
 
 }
